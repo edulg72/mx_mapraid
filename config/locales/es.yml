@@ -34,7 +34,7 @@ es:
   disconnected-segments-small: "o con conexiones deshabilitadas"
   editor: "Editor"
   elevation: "Elevación"
-  env: "usa"
+  env: "row"
   exaggerated-elevation: "Segmentos con elevación exagerada"
   last-edit: "Última edición"
   last-comment: "Último comentario"
